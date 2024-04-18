@@ -1,0 +1,16 @@
+{
+  "name": "pdf-to-dataurl-array-converter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fs-extra": "^11.2.0",
+    "pdf-poppler": "^0.2.1"
+  }
+}
